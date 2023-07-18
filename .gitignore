@@ -1,0 +1,4 @@
+node_modules
+_metadata
+dist
+package-lock.json
